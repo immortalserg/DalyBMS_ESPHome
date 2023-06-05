@@ -29,3 +29,7 @@ uart:
 daly_bms:
 
   update_interval: 5s # интервал опроса
+
+подключите esp8266 и запустите сборку и прошивку
+
+esphome run dalybms.yaml
